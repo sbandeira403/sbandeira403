@@ -15,14 +15,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sbandeira403.sbandeira403&left_color=lightgreen&right_color=palegreen&left_text=visitantes%20%3C3"  />
-</div>
-
-###
-
 <h1 align="center">Olá 👋</h1>
 
 ###
